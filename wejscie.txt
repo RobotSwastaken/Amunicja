@@ -1,0 +1,3 @@
+krotka 9 boczny
+dluga 10 centralny
+gladkolufowa 11 centralny
