@@ -1624,7 +1624,7 @@ design rules under a new name.</description>
 <element name="C6" library="capacitor-wima" library_urn="urn:adsk.eagle:library:116" package="C2.5-3" package3d_urn="urn:adsk.eagle:package:5436/1" value="100nF" x="68.58" y="12.7"/>
 <element name="U$4" library="diy-modules2" package="LIGHT-SENSOR-BH1750" value="ACCELEROMETER SENSOR" x="44.45" y="53.34" rot="R90"/>
 <element name="U$3" library="diy-modules2" package="GPS-RECEIVER-NEO6M" value="GPS-RECEIVER-NEO6M" x="35.56" y="-7.62" rot="R270"/>
-<element name="U$2" library="diy-modules2" package="GSM-MODEM-SIM900A" value="GSM-MODEM-SIM900A" x="53.34" y="71.12" rot="R270"/>
+<element name="U$2" library="diy-modules2" package="GSM-MODEM-SIM900A" value="GSM-MODULE-G510" x="53.34" y="71.12" rot="R270"/>
 <element name="X3" library="con-commcon" library_urn="urn:adsk.eagle:library:134" package="1297-25" package3d_urn="urn:adsk.eagle:package:6281/1" value="1297-25" x="59.69" y="54.61">
 <attribute name="MF" value="" x="59.69" y="54.61" size="1.778" layer="27" display="off"/>
 <attribute name="MPN" value="" x="59.69" y="54.61" size="1.778" layer="27" display="off"/>

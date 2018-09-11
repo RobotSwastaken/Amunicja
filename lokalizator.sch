@@ -4452,7 +4452,7 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <part name="C6" library="capacitor-wima" library_urn="urn:adsk.eagle:library:116" deviceset="C" device="2,5-3" package3d_urn="urn:adsk.eagle:package:5436/1" value="100nF"/>
 <part name="U$4" library="diy-modules2" deviceset="LIGHT-SENSOR-BH1750" device="" value="ACCELEROMETER SENSOR"/>
 <part name="U$3" library="diy-modules2" deviceset="GPS-RECEIVER-NEO6M" device=""/>
-<part name="U$2" library="diy-modules2" deviceset="GSM-MODEM-SIM900A" device=""/>
+<part name="U$2" library="diy-modules2" deviceset="GSM-MODEM-SIM900A" device="" value="GSM-MODULE-G510"/>
 <part name="X3" library="con-commcon" library_urn="urn:adsk.eagle:library:134" deviceset="1297-25" device="" package3d_urn="urn:adsk.eagle:package:6281/1"/>
 <part name="X4" library="con-commcon" library_urn="urn:adsk.eagle:library:134" deviceset="1297-25" device="" package3d_urn="urn:adsk.eagle:package:6281/1"/>
 <part name="P+3" library="audio amplifier example" library_urn="urn:adsk.eagle:library:970892" deviceset="VCC" device="" value="3,7V"/>
