@@ -1,0 +1,8 @@
+15.09.2018 wersja 1.2
+
+wersja 1.1
+Zmieniono p³ytk¹ z modu³em GSM wykonan¹ na zamówienie na gotow¹ p³ytkê ze sklepu
+
+Wersja 1.2
+Zmieniono Mikroprocesor Atmega32A-PU na Atmega328P-PU
+Zmieniono modu³ GPS z FIBOCOM GTS-4E-60 na Ublox neo-6m 
